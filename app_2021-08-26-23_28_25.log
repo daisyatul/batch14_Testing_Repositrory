@@ -1,0 +1,49 @@
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-2] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-4] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-5] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-1] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-7] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-6] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-3] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-7] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-8] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-8] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-8] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-2] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-3] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-7] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-4] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-1] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-5] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-5] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-4] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-2] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-6] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-3] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-1] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-1] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-1] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-1] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:26 PM [TestNG-PoolService-6] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:30 PM [TestNG-PoolService-0] DEBUG StepDef.StepDef - Chrome initialized
+2021-Aug-26 23:28:30 PM [TestNG-PoolService-0] DEBUG StepDef.StepDef - window maximize
+2021-Aug-26 23:28:30 PM [TestNG-PoolService-9] DEBUG StepDef.StepDef - Chrome initialized
+2021-Aug-26 23:28:30 PM [TestNG-PoolService-9] DEBUG StepDef.StepDef - window maximize
+2021-Aug-26 23:28:31 PM [TestNG-PoolService-0] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:36 PM [TestNG-PoolService-0] DEBUG StepDef.StepDef - Navigated to url https://parabank.parasoft.com/parabank/index.htm
+2021-Aug-26 23:28:36 PM [TestNG-PoolService-9] DEBUG StepDef.StepDef - Navigated to url https://parabank.parasoft.com/parabank/index.htm
+2021-Aug-26 23:28:36 PM [TestNG-PoolService-9] DEBUG StepDef.StepDef - Get user namejohn
+2021-Aug-26 23:28:36 PM [TestNG-PoolService-9] DEBUG StepDef.StepDef - Get passworddemo
+2021-Aug-26 23:28:37 PM [TestNG-PoolService-0] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:37 PM [TestNG-PoolService-0] DEBUG StepDef.StepDef - Get user namejohn
+2021-Aug-26 23:28:37 PM [TestNG-PoolService-0] DEBUG StepDef.StepDef - Get passworddemo
+2021-Aug-26 23:28:39 PM [TestNG-PoolService-9] DEBUG StepDef.StepDef - Log in button click
+2021-Aug-26 23:28:39 PM [TestNG-PoolService-0] DEBUG StepDef.StepDef - Log in button click
+2021-Aug-26 23:28:39 PM [TestNG-PoolService-9] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:39 PM [TestNG-PoolService-0] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:40 PM [TestNG-PoolService-0] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:41 PM [TestNG-PoolService-9] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:41 PM [TestNG-PoolService-9] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:47 PM [TestNG-PoolService-9] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:47 PM [TestNG-PoolService-9] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
+2021-Aug-26 23:28:48 PM [TestNG-PoolService-9] DEBUG StepDef.HooksStepDef - Each step hook is executed, Screen shot taken
